@@ -5,3 +5,4 @@
 <a href="./01/vanillaJS">Solution</a>
 
 ### Q2: Create a web app where I can input a text. Now create two buttons + and -. On clicking + increase the fontSize by 2px and vice versa
+<a href="./02.font_size_2px/VanillaJS/">Solution</a>
