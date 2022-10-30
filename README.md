@@ -31,3 +31,8 @@
 
 ### Q11:Create a password checker web app. If password is lesser than 10 characters then show an error to user otherwise show success. Someone can ask to make the submit button disabled. Some can ask to make the input field green or red depending on input
 <a href="./11.passwoed_checker/VanillaJS/>">Solution</a>
+
+### Q12:Show me your portfolio. Okay, I like the button you have made. Can you re create the button without looking at source code? You're free to Google though
+
+### Q13:Create color variables in CSS. Two colors: primary and secondary. Now make your h1 of primary color, h2 of secondary color. Make two buttons, primary and secondary using the same color. Can you also set a font from Google Font?
+<a href="./13.color_variable_css/VanillaJS/">solutions</a>

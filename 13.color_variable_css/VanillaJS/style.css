@@ -1,0 +1,30 @@
+/* Create color variables in CSS. Two colors: primary and secondary. Now make your h1 of primary color, h2 of secondary color. Make two buttons, primary and secondary using the same color. Can you also set a font from Google Font? */
+
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+
+:root {
+  --primary-color: rgb(208, 76, 155);
+  --secondary-color: rgb(220, 216, 16);
+}
+
+body {
+  font-family: 'Secular One', sans-serif;
+}
+
+h1 {
+  color: var(--primary-color);
+}
+
+h2 {
+  color: var(--secondary-color);
+}
+
+#button__One {
+  background-color: var(--primary-color);
+  font-family: inherit;
+}
+
+#button__Two {
+  background-color: var(--secondary-color);
+  font-family: inherit;
+}
