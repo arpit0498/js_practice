@@ -21,3 +21,7 @@
 ### Q7: Here's an API. Create a web app to call this API with your full name and print the response. This could be extended where we ask you to do something with the response. Like add a text, or capitalise etc
 
 ### Q8:Here' an API. It will give an error. Write a web app, call this API and read the error message. Show user the error message
+<a href="./08. Api_error_msg/vanillaJS/">solution</a>
+
+### Q9:Here's an API, it can give two errors. Either 404, or 401. If the error is 404, show the user 'page not found' and if the error is 401, show the user 'you are not logged in'
+<a href="./09.error_404_401/VanillaJS/">
