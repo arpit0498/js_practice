@@ -17,3 +17,5 @@
 
 ### Q6: Create a web app with a button loded. Show a text loading... on a web app. However, hide it if I click on the button loaded
 <a href="./06. Loading_hide_show/VanillaJS/"> solution</a>
+
+### Q7: Here's an API. Create a web app to call this API with your full name and print the response. This could be extended where we ask you to do something with the response. Like add a text, or capitalise etc
