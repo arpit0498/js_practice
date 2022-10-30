@@ -36,3 +36,5 @@
 
 ### Q13:Create color variables in CSS. Two colors: primary and secondary. Now make your h1 of primary color, h2 of secondary color. Make two buttons, primary and secondary using the same color. Can you also set a font from Google Font?
 <a href="./13.color_variable_css/VanillaJS/">solutions</a>
+
+### Q14:Create two objects with name, age, and yuga as Ram, 25, Treta. Krishna, 31, Dwapar. Write a function which takes two objects and return the person with more age
