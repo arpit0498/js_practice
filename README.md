@@ -38,3 +38,5 @@
 <a href="./13.color_variable_css/VanillaJS/">solutions</a>
 
 ### Q14:Create two objects with name, age, and yuga as Ram, 25, Treta. Krishna, 31, Dwapar. Write a function which takes two objects and return the person with more age
+<a href="./15.more_power/VanillaJS/">solution</a>
+
