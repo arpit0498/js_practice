@@ -25,7 +25,11 @@ capBtn.addEventListener('click', cap);
 
 function cap() {
 
-    output.style.textTransform = "capitalize"
+    if (output.style.textTransform == "capitalize") {
+        output.style.textTransform = "lowercase"
+    } else {
+        output.style.textTransform = "capitalize"
+    }
     // console.log("Cap")
 }
 
