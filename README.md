@@ -12,3 +12,8 @@
 
 ### Q4: Create a web app where I can input a text. Now, create three buttons: red, green, blue. Clicking on the button should change the text color
 <a href="./04. change_input_colour/vanillaJS/">solution</a>
+
+### Q5: Create a CLI app which takes name, unit test marks, pre final marks, final marks of 5 students. And then print who has the highest marks. What if I ask you to print the average as well?
+
+### Q6: Create a web app with a button loded. Show a text loading... on a web app. However, hide it if I click on the button loaded
+<a href="./06. Loading_hide_show/VanillaJS/"> solution</a>
