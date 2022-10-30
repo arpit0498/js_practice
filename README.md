@@ -38,5 +38,12 @@
 <a href="./13.color_variable_css/VanillaJS/">solutions</a>
 
 ### Q14:Create two objects with name, age, and yuga as Ram, 25, Treta. Krishna, 31, Dwapar. Write a function which takes two objects and return the person with more age
+<a href="./14.objects_moreage/VanillaJS/">solution</a>
+
+### Q15: Create two objects with name, age, and power as Ram, 2500, Treta. Krishna, 2325, Dwapar Write a function which takes two objects and return the person with more power
 <a href="./15.more_power/VanillaJS/">solution</a>
 
+### Q16 : Create two objects with name, age, and power as Ram, 2500, Treta. Krishna, 2325, Dwapar. Say if every character in name is worth 35 power point
+Write a function which takes two objects and return the person with more power based on their name and power both.
+
+<a href="./16.power_35/VanillaJS/">
