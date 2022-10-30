@@ -24,4 +24,10 @@
 <a href="./08. Api_error_msg/vanillaJS/">solution</a>
 
 ### Q9:Here's an API, it can give two errors. Either 404, or 401. If the error is 404, show the user 'page not found' and if the error is 401, show the user 'you are not logged in'
-<a href="./09.error_404_401/VanillaJS/">
+<a href="./09.error_404_401/VanillaJS/">solutions</a>
+
+
+### Q10: Open your Github repo. Make a small change. And create a PR. Explain what you understand by Git, what's PR etc
+
+### Q11:Create a password checker web app. If password is lesser than 10 characters then show an error to user otherwise show success. Someone can ask to make the submit button disabled. Some can ask to make the input field green or red depending on input
+<a href="./11.passwoed_checker/VanillaJS/>">Solution</a>
