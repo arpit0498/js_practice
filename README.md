@@ -46,4 +46,14 @@
 ### Q16 : Create two objects with name, age, and power as Ram, 2500, Treta. Krishna, 2325, Dwapar. Say if every character in name is worth 35 power point
 Write a function which takes two objects and return the person with more power based on their name and power both.
 
-<a href="./16.power_35/VanillaJS/">
+<a href="./16.power_35/VanillaJS/">Solution</a>
+
+
+### Q17:Create a CLI app which would detect fake news. This app will take news as input and then source
+
+If source is Facebook or whatsapp then it will output user saying, "Don't believe things on FB and Whatsapp". Can you extend this to include telegram as well?
+
+<a href="./17.more_power_name">solution</a>
+<a href="https://replit.com/@ArpitGupta18/newsfake?v=1">repl link</a>
+
+### Q18
