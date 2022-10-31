@@ -59,4 +59,6 @@ If source is Facebook or whatsapp then it will output user saying, "Don't believ
 <br>
 <a href="https://replit.com/@ArpitGupta18/newsfake?v=1">repl link</a>
 
-### Q18
+### Q18:Add a input field. Insert a sentence. Now create a button. On clicking the button, highlight the word in the sentence with most number of characters
+
+<a href="./18. max_word_in_sentence/vanillaJS/">solution</a>
