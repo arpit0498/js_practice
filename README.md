@@ -19,6 +19,7 @@
 <a href="./06. Loading_hide_show/VanillaJS/"> solution</a>
 
 ### Q7: Here's an API. Create a web app to call this API with your full name and print the response. This could be extended where we ask you to do something with the response. Like add a text, or capitalise etc
+<a href="./07. api_name_capital/VanillaJS/">solution</a>
 
 ### Q8:Here' an API. It will give an error. Write a web app, call this API and read the error message. Show user the error message
 <a href="./08. Api_error_msg/vanillaJS/">solution</a>
@@ -62,3 +63,6 @@ If source is Facebook or whatsapp then it will output user saying, "Don't believ
 ### Q18:Add a input field. Insert a sentence. Now create a button. On clicking the button, highlight the word in the sentence with most number of characters
 
 <a href="./18. max_word_in_sentence/vanillaJS/">solution</a>
+
+### Q19: Create a Password checker App. If the length of the password is odd, the text should be displayed in red and if it is even, display in green colour
+<a href="./19.password_even_odd/">solution</a>
